@@ -6,3 +6,4 @@ Para utilizarla basta con abrir el archivo llamado calculadura.html en el explor
 ### Integrantes:
 
 - Gabriel Muñoz Barahona
+- Gerson Herrera
